@@ -126,3 +126,4 @@ C:\Users\Flame\Desktop\New folder\lvl3\toDo\api\obj\Debug\net8.0\refint\api.dll
 C:\Users\Flame\Desktop\New folder\lvl3\toDo\api\obj\Debug\net8.0\api.pdb
 C:\Users\Flame\Desktop\New folder\lvl3\toDo\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\Flame\Desktop\New folder\lvl3\toDo\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\Flame\Desktop\New folder\lvl3\toDo\api\obj\Debug\net8.0\api.sourcelink.json
